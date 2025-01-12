@@ -98,23 +98,7 @@ Decomposition Analysis: Visualized trends, seasonality, and residuals for Mumbai
 
 Forecasts: Predicted future temperatures for Mumbai with ARIMA models.
 
-Evaluation Metrics:
 
-Mean Absolute Error (MAE): example value
-
-Mean Squared Error (MSE): example value
-
-Root Mean Squared Error (RMSE): example value
-
-Future Enhancements
-
-Incorporate additional features like humidity, rainfall, or air quality for Mumbai.
-
-Explore deep learning models (e.g., LSTMs) for improved accuracy.
-
-Acknowledgments
-
-Data Source: [Provide dataset source link, if applicable]
 
 Libraries: TensorFlow, Pandas, Statsmodels, etc.
 
